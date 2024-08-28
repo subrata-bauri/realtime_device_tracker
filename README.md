@@ -59,7 +59,7 @@ Here are the steps to run the application locally.
 
 ## License 📄
 
-This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/subrata-bauri/realtime_device_tracker/blob/main/LICENSE)
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/subrata-bauri/realtime_device_tracker/blob/main/LICENSE)
 
 ## Contact 📬
 
