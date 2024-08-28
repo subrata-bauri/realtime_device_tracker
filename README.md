@@ -51,7 +51,7 @@ Here are the steps to run the application locally.
 
 ## Deployment 🚀
 
-1. Create a Vercel account and select "Import Project"
+1. Create a Render account and select "Import Project"
 
 2. Select the forked repository and deploy
 
