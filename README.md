@@ -29,12 +29,12 @@ A real-time device tracking application built with Node.js, Express, Socket.IO, 
 
 Here are the steps to run the application locally.
 
-1. Fork [this](https://github.com/subrata-bauri/reatime_device_tracker) repository.
+1. Fork [this](https://github.com/subrata-bauri/realtime_device_tracker) repository.
 
 2. Clone your forked copy of the repo
 
    ```bash
-   git clone https://github.com/<your-github-username>/reatime_device_tracker.git
+   git clone https://github.com/<your-github-username>/realtime_device_tracker.git
    ```
 
 3. Install dependencies
@@ -55,11 +55,11 @@ Here are the steps to run the application locally.
 
 2. Select the forked repository and deploy
 
-3. Hurray! You successfully deployed the portfolio🥳
+3. Hurray! You successfully deployed the Application🥳
 
 ## License 📄
 
-This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/subrata-bauri/reatime_device_tracker/blob/main/LICENSE)
+This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/subrata-bauri/realtime_device_tracker/blob/main/LICENSE)
 
 ## Contact 📬
 
